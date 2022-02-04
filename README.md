@@ -1,9 +1,11 @@
 
-😉 Hello, i'm AccessibleObject (known as undefined, kot-dev)
+😉 Hello, i'm AccessibleObject (known as undefined)
 
-💠I'm currently developing Neon
+💠I'm currently developing Cat.
 
-💥I'm owner of KotMC.PL 
+💥I'm owner of FlyMC (discontinued), LateMC (Soon™)
 
-💫My discord: undefined#6558
+💫My discord: undefined#0555
+
+✨Feel free to DM me
  
