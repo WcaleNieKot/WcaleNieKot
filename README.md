@@ -1,11 +1,16 @@
+Hi, i'm undefined, i'm just a guy that likes programming.
 
-😉 Hello, i'm AccessibleObject (known as undefined)
+```⚡ Latest projects:
+    ✨ GalaxyMC-PVP ::::::: `Java`
+    ✨ GalaxyMC-Lobby ::::::: `Java`
+```
 
-💠I'm currently developing Cat.
+```
+⏰ Timezone: GMT+2 | Europe/Warsaw
 
-💥I'm owner of FlyMC (discontinued), LateMC (Soon™)
+📊 Languages that i use(-d) in this week
+   - Java  3 hrs 48 mins  :::::::::::::::...... 97.00%
+   - YAML  0 hrs 7 mins   :::.................. 3.00%
+```
 
-💫My discord: undefined#0555
-
-✨Feel free to DM me
- 
+`Last update: 2022-03-30 16:09 GMT+2`
