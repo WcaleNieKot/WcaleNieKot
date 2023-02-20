@@ -1,4 +1,4 @@
-Hi. I'm AccessibleObject also known as Kot/NieKot
+Hi. I'm NieKot!
 
 <h3 align="left">Contact me</h3>
 <p align="left"> Discord - NieKot#2920 </p>
