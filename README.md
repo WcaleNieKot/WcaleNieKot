@@ -1,4 +1,4 @@
-Hi. I'm NieKot!
+🖐️ Hi. I'm NieKot!
 
 <h3 align="left">Contact me</h3>
 <p align="left"> 🔷 Discord - NieKot </p>
